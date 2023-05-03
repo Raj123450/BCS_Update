@@ -1,1 +1,7 @@
+name: BCS Update
+on: push
+Jobs:
+BCS_Update
+name: BCS_Update
+
 
